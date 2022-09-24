@@ -1,3 +1,5 @@
+"printing an avarage value"
+
 if __name__ == '__main__':
     n = int(input())
     student_marks = {}
